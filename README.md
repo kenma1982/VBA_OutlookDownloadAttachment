@@ -3,7 +3,7 @@ This VBA script download the specified attachment (by file extension) from speci
 
 tested in VBA 7.1 Office16\Outlook
 
-copy the content of attachmentdownload.txt into outlook\developer tab\visual Basic, edit the path of setting file as following and save.
+copy the content of attachmentdownload.txt into outlook\developer tab\visual Basic, find and edit the path of setting file as following and save.
 
 'Variable Setup
 Call loadsetting(aSetting, "**C:\mail\settings.txt**", FileType_list, Setting) 'load setting file
