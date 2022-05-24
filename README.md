@@ -1,4 +1,4 @@
-# VBA_OutlookDownloadAttachment, Wedding Gift to my friend Jeff IP and Jessie
+# VBA_OutlookDownloadAttachment
 This VBA script download the specified attachment (by file extension) from specified email to the designated folder.
 
 tested in VBA 7.1 Office16\Outlook
@@ -34,3 +34,7 @@ https://www.slipstick.com/outlook/rules/outlooks-rules-and-alerts-run-a-script/
 
 How to add Run a script in Rule if you cannot find it:
 https://www.extendoffice.com/documents/outlook/4640-outlook-rule-run-a-script-missing.html
+
+
+Gift to my friend Jeff IP for his marrage with Jessie
+By Ken 2022
