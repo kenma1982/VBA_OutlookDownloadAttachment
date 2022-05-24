@@ -36,5 +36,5 @@ How to add Run a script in Rule if you cannot find it:
 https://www.extendoffice.com/documents/outlook/4640-outlook-rule-run-a-script-missing.html
 
 
-Gift to my friend Jeff IP for his marrage with Jessie
+Gift to my friend Jeff for his marrage with Jessie
 By Ken 2022
