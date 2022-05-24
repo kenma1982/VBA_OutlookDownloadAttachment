@@ -1,4 +1,5 @@
-# VBA_OutlookDownloadAttachment
+# VBA_OutlookDownloadAttachment, Wedding Gift to my friend Jeff IP and Jessie
+This VBA script download the specified attachment (by file extension) from specified email to the designated folder.
 
 tested in VBA 7.1 Office16\Outlook
 
@@ -14,14 +15,18 @@ Edit settings.txt:
 
 Put the edited settings.txt as in the described path
 
-example:
-
+example of settings.txt:
 SaveToFolder = "C:\mail\"
 AddressFile = "C:\mail\addresslist.txt"
 download_extension = "pdf,jpg,xls,png"
 datestamp = "YES"
 
 
+example of addresslist.txt
+Folder, email address
+Ken\test, mahoitang@gmail.com
+FOLDERNAME, xxx@example.com
+SubFolder\Folder, no@duplicatedemail.com
 
 
 Setup of outlook to run a script
