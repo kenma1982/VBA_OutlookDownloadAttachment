@@ -1,0 +1,5 @@
+SaveToFolder = "C:\mail\"
+AddressFile = "C:\mail\addresslist.txt"
+download_extension = "pdf,jpg,xls,png"
+datestamp = "YES"
+

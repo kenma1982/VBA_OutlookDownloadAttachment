@@ -1,0 +1,6 @@
+Folder, email address
+Ken\test, mahoitang@gmail.com
+FOLDERNAME, xxx@example.com
+SubFolder\Folder, no@duplicatedemail.com
+
+
